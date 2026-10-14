@@ -6,9 +6,7 @@ import shap
 import matplotlib.pyplot as plt
 import os
 
-# -----------------------------
 # PAGE CONFIG
-# -----------------------------
 st.set_page_config(page_title="IoT IDS", layout="wide")
 st.title("🛡️ Explainable IoT Intrusion Detection")
 
