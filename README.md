@@ -1,5 +1,4 @@
 # 🛡️ Explainable IoT Intrusion Detection System (X-IDS)
-
 abstract from paper -ABSTRACT
 The increased use of Internet of Things (IoT) devices has
 expanded attack surface. The resource-constrained nature of
